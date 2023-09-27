@@ -19,7 +19,7 @@ public class Task1 {
         int ch = 1;
 
         System.out.println("My name is " + name + ". I'm " + age + ".\n" + "I'm educator with " + exp + " years experience on the " + field + ".");
-        //System.out.printf("My name is %s. I'm %d.\nI'm educator with %d years experience on the %s", name, age, exp, field); - the same with other method "printf"
+        // System.out.printf("My name is %s. I'm %d.\nI'm educator with %d years experience on the %s\n", name, age, exp, field); //- the same with other method "printf"
         System.out.println("------------------");
         System.out.println("Personal information: phone number - " + phone + ", Email adress - " + email);
         System.out.println("------------------");
